@@ -1,6 +1,6 @@
 # -*- unison -*-
 
-# this filr is just an example of syntax highlighting in unison-mode
+# this file is just an example of syntax highlighting in unison-mode
 
 #don't do file operations in threads. (fragmentation of FAT-disk)
 maxthreads = 1
