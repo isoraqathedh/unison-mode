@@ -37,3 +37,7 @@ ignore = Name *.tmp
 ignore = Name *.o
 ignore = Name */a.out
 ignore = Regex .*\.svn
+
+# Temp files
+ignore = Name #*.*#
+ignore = Name .#*
